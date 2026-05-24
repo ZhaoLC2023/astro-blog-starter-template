@@ -35,7 +35,7 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("../../public/background.png") no-repeat center center;
+	background-image: url("/background.png");
 	background-size: cover;
 	background-attachment: fixed;
 	word-wrap: break-word;
